@@ -4,5 +4,5 @@ public interface GetTaxiI {
 
      void cancelTaxi(Long customerId) ;
 
-     void taxiAvailable(Integer taxi);
+     void taxiAvailable(Integer taxi);//
 }
