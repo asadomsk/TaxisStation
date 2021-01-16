@@ -25,4 +25,4 @@ Execute:
 9. Third taxi is back in station  
 
 Output:  
-![]()
+![](12.jpeg)
